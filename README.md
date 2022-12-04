@@ -8,4 +8,4 @@ The code of interest is likely the file named `"Disk Reprocessing Response Funct
 
 For anyone wishing to read a summary of the project, the report they should read is `"[Phys 6006_Summary][Alexander Weston][Modelling the UV and Optical Emission from Accretion Disks around Supermassive Black Holes].pdf"`. For anyone wishing to read a more in-depth dive into the project (including some of the derivations involved that were later implemented into the model), the report named `"[Phys 6006][Alexander Weston][Modelling the UV and Optical Emission from Accretion Disks around Supermassive Black Holes].pdf"` would be more suitable.
 
-The data files are not included with the repository due to unknown copyright status at the time of writing.
+The data files are from McHardy et al 2018 MN 480 2881, included with permission of I. M. McHardy. Please reference this paper if you wish to publish work using them. Private use of these data is fine but I provide no guarantees about its content.
